@@ -77,7 +77,6 @@
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{[https://github.com/YOUR_USERNAME/Fast-Complex-L1-Projection](https://github.com/YOUR_USERNAME/Fast-Complex-L1-Projection)}}
+  howpublished = {\url{[https://github.com/Wang-lolo/Fast-Complex-L1-Projection](https://github.com/YOUR_USERNAME/Fast-Complex-L1-Projection)}}
 }
 ```
-*(注：请将链接中的 `YOUR_USERNAME` 替换为您的实际 GitHub 用户名)*
